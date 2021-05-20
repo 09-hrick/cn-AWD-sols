@@ -1,5 +1,4 @@
-# cn-AWD-sols
-# cn-java-sols (⌐■_■)
+# cn-AWD-sols (⌐■_■)
 # Link to [This repository](https://github.com/09-hrick/cn-AWD-sols) 
 
 
